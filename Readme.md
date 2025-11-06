@@ -1,0 +1,1 @@
+a small machine learning project for creating startup fundability classification model
